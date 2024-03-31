@@ -21,16 +21,6 @@ Je suis connu pour ma bienveillance, mon expertise technique et mon esprit d'ent
 [![GCP](https://img.shields.io/badge/GCP-Expert-blueviolet)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-Certified-yellow)](https://aws.amazon.com/)
 
-## 📊 Statistiques de développement
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Contact
 
 📧 Email: yohann.streibel@externe.systeme-u.fr
