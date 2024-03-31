@@ -24,6 +24,11 @@ Je suis connu pour ma bienveillance, mon expertise technique et mon esprit d'ent
 ## 📊 Statistiques de développement
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact
